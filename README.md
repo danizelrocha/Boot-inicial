@@ -1,0 +1,2 @@
+# Boot-inicial
+Inicio
